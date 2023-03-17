@@ -1,3 +1,3 @@
 *.dat
 results/plots/
-!log_0*
+log_0*
